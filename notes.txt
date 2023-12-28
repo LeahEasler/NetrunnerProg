@@ -1,0 +1,30 @@
+In order to track money and turn clicks I wanted to design a program that automates this. 
+Or at least help track with turn order.
+
+Corpo
+    3 clicks
+    Draws card start of turn
+    Starts with 5 creds
+Runner
+    4 clicks
+    Does not draw cards
+    Starts with 5 creds
+
+
+Display
+
+Corpo
+Creds []
++/-
+
+[Corpo Clicks]/[Runner Clicks]
+
+Runner
+Creds []
++/-
+
+Extra ideas:
+Corpo display DRAW CARD BEFORE TURN STARTS
+Corpo display Run last turn?
+Runner [during run]
+Runner damage tracker
